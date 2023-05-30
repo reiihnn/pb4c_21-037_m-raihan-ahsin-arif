@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Pesan-1",
+    "participantsId": ["211", "212"],
+    "messages": [
+      {
+        "content": "Hallo Apa kabarmu sekarang?",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "217"
+      },
+      {
+        "content": "Hai jugaa! kabarku sekarang lagi stress",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "211"
+      },
+      {
+        "content": "Stress karena apa?",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "217"
+      },
+      {
+        "content": "Stress karena nggak ada uang",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "211"
+      },
+      {
+        "content": "Lha emang uangmu kemana?",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "217"
+      },
+      {
+        "content": "Lahh ya nggak tauu, tiba tiba habis gitu",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "211"
+      },
+      {
+        "content": "Idih bisa bisanya gitu",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "217"
+      },
+      {
+        "content": "Hehehehe, iyaa. Emang ada apa tanya-tanya?",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "211"
+      },
+      {
+        "content": "Yaa gpp, tanya aja emang nggak boleh?",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "217"
+      },
+      {
+        "content": "Yaa boleh sihh, tapi yaa aneh aja tiba-tiba tanya",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "211"
+      },
+      {
+        "content": "Oalahh, biar keliatan akrab ajaa",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "217"
+      },
+      {
+        "content": "Owhh yaudahh, Byee!",
+        "createdAt": "2023-05-29T13:32:24-05",
+        "ownerId": "211"
+      }
+    ]
+  },
+  {
+    "id": "Pesan-2",
+    "participantsId": ["211", "213"],
+    "messages": []
+  },
+  {
+    "id": "Pesan-3",
+    "participantsId": ["211", "212"],
+    "messages": []
+  },
+  {
+    "id": "Pesan-4",
+    "participantsId": ["211", "214"],
+    "messages": []
+  },
+  {
+    "id": "Pesan-5",
+    "participantsId": ["211", "215"],
+    "messages": []
+  },
+  {
+    "id": "Pesan-6",
+    "participantsId": ["211", "216"],
+    "messages": []
+  },
+  {
+    "id": "Pesan-7",
+    "participantsId": ["211", "218"],
+    "messages": []
+  }
+]
