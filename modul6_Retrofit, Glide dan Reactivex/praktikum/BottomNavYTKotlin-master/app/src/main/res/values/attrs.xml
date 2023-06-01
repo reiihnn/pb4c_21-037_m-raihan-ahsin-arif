@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTextView">com.example.bottomnavyt.R</declare-styleable>
+    <declare-styleable name="CustomTextView_textPriority">com.example.bottomnavyt.R
+    </declare-styleable>
+    <declare-styleable name="CustomTextView_isTitle">com.example.bottomnavyt.R</declare-styleable>
+    <declare-styleable name="CustomTextView_textType">com.example.bottomnavyt.R</declare-styleable>
+</resources>
